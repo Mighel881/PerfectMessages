@@ -47,6 +47,18 @@
 			<string>Return To Messages On Close</string>
 		</dict>
 		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.johnzaro.perfectmessages</string>
+			<key>key</key>
+			<string>easySwitchIMessageSMS</string>
+			<key>label</key>
+			<string>Easy Switch iMessage / SMS</string>
+		</dict>
+		<dict>
         	<key>cell</key>
 			<string>PSGroupCell</string>
 			<key>footerText</key>
